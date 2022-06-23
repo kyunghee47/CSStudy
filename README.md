@@ -1,5 +1,9 @@
 # CSStudy
+#### CS를 부수기 위한 스터디!!
 
+- 기간: 2022년 7월 ~
+- 정기 회의: 화 오후 9시
+- 참고 강의: [CS지식의 정석](https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-cs-%ED%8A%B9%EA%B0%95)
 ## CSStudy 목적
 * 작성 예정
 
